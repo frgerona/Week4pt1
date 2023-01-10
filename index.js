@@ -6,3 +6,5 @@ function myFunction(name, height, country) {
     alert(name + ' ' + height + ' ' + country);
     return;
 }
+
+myFunction(myName, myHeight, myCountry);
